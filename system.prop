@@ -1,0 +1,162 @@
+##
+# By @byMehroj
+##
+
+###
+# begin product/etc/build.prop
+###
+
+# begin common build properties
+ro.product.product.brand=xiaomi
+ro.product.product.device=rosemary
+ro.product.product.manufacturer=Redmi
+ro.product.product.model=Redmi Note 10S
+ro.product.product.name=rosemary
+ro.product.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+ro.product.build.id=TQ1A.221205.011
+ro.product.build.tags=release-keys
+ro.product.build.type=user
+# end common build properties
+
+# begin PRODUCT_PRODUCT_PROPERTIES
+ro.support_one_handed_mode=true
+ro.charger.enable_suspend=true
+ro.opa.eligible_device=true
+ro.com.google.ime.bs_theme=true
+ro.com.google.ime.theme_id=5
+ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms
+# end PRODUCT_PRODUCT_PROPERTIES
+
+###
+# end product/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/build.prop
+###
+
+# begin common build properties
+ro.product.vendor.brand=xiaomi
+ro.product.vendor.device=rosemary
+ro.product.vendor.manufacturer=Redmi
+ro.product.vendor.model=Redmi Note 10S
+ro.product.vendor.name=rosemary
+ro.vendor.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+ro.vendor.build.id=TQ1A.221205.011
+ro.vendor.build.tags=release-keys
+ro.vendor.build.type=user
+# end common build properties
+
+# begin ADDITIONAL_VENDOR_PROPERTIES
+
+# end ADDITIONAL_VENDOR_PROPERTIES
+
+# begin BOOTIMAGE_build_prop to_system_propERTIES
+ro.bootimage.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+# end BOOTIMAGE_build_prop to_system_propERTIES
+
+# begin PRODUCT_PROPERTY_OVERRIDES
+persist.rcs.supported=1
+persist.sysui.monet=true
+# end PRODUCT_PROPERTY_OVERRIDES
+
+###
+# end vendor/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin vendor/odm/etc/build.prop
+###
+
+# begin common build properties
+ro.product.odm.brand=xiaomi
+ro.product.odm.device=rosemary
+ro.product.odm.manufacturer=Redmi
+ro.product.odm.model=Redmi Note 10S
+ro.product.odm.name=rosemary
+ro.odm.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+ro.odm.build.id=TQ1A.221205.011
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+# end common build properties
+
+###
+# end vendor/odm/etc/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system/system/build.prop
+###
+
+# begin common build properties
+ro.product.system.brand=xiaomi
+ro.product.system.device=rosemary
+ro.product.system.manufacturer=Redmi
+ro.product.system.model=rosemary
+ro.product.system.name=rosemary
+ro.system.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+ro.system.build.id=TQ1A.221205.011
+ro.system.build.tags=release-keys
+ro.system.build.type=user
+# end common build properties
+
+# begin build properties
+ro.build.id=TQ1A.221205.011
+ro.build.display.id=TQ1A.221205.011
+ro.build.type=user
+ro.build.user=android-build
+ro.build.host=abfarm-release-2004-0196
+ro.build.tags=release-keys
+ro.build.flavor=rosemary-user
+ro.build.product=rosemary
+ro.build.description=rosemary-user 13 TQ1A.221205.011 9244662 release-keys
+# end build properties
+
+# begin extra's from /system/build.prop
+ro.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+ro.product.brand=xiaomi
+ro.product.device=rosemary
+ro.product.manufacturer=Redmi
+ro.product.model=Redmi Note 10S
+ro.product.name=rosemary
+# end extra's from /system/build.prop
+
+###
+# end system/system/build.prop
+###
+
+###
+#-#
+###
+
+###
+# begin system_ext/etc/build.prop
+###
+
+# begin common build properties
+ro.product.system_ext.brand=xiaomi
+ro.product.system_ext.device=rosemary
+ro.product.system_ext.manufacturer=Redmi
+ro.product.system_ext.model=Redmi Note 10S
+ro.product.system_ext.name=rosemary
+ro.system_ext.build.fingerprint=Redmi/rosemary/rosemary:13/TQ1A.221205.011/9244662:user/release-keys
+ro.system_ext.build.id=TQ1A.221205.011
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.type=user
+# end common build properties
+
+###
+# end system_ext/etc/build.prop
+###
