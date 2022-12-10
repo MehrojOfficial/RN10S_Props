@@ -1,4 +1,4 @@
-# RN10S Props
+# RN10S Props A13
 Prop Fix for ROMs (GSI/Custom)
 
 ### Purpose:
