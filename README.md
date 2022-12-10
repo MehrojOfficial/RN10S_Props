@@ -10,5 +10,8 @@ Prop Fix for ROMs (GSI/Custom)
 ### Instructions:
 - Flash in Magisk Manager and reboot
 
+### Download:
+- [Direct Link](https://www.pling.com/p/1952973/)
+
 Credits:
 [@byMehroj](https://t.me/byMehroj)
